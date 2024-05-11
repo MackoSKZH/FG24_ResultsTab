@@ -74,6 +74,7 @@ body {
     font-weight: bolder;
     text-align: center;
     align-content: center;
+    justify-content: center;
     color: white;
     /* border: dashed 2px black; */
     border-top-left-radius: var(--border-radius);
