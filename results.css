@@ -154,7 +154,7 @@ body {
 .point-label-white, .point-label-grey {
     font-weight: bold;
     font-size: 2vh;
-    align-content: center;
+    align-content: end;
     padding-left: 10px;
 
 }
