@@ -182,7 +182,7 @@ body {
     border-color: black;
     display: flex;
     justify-content: center;
-    align-content: center;
+    align-items: center;
 }
 
 #red-point-label6, #blue-point-label6,
