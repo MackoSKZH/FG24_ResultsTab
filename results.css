@@ -149,6 +149,9 @@ body {
     background-color: white;
     border-style: solid;
     border-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .point-label-white, .point-label-grey {
@@ -156,6 +159,9 @@ body {
     font-size: 2vh;
     align-content: center;
     padding-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .point-value-white, .point-value-grey {
@@ -163,6 +169,9 @@ body {
     font-weight: bold;
     font-size: 2vh;
     align-content: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .point-label-grey, .point-value-grey {
@@ -171,6 +180,9 @@ body {
     background-color: lightgrey;
     border-style: solid;
     border-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #red-point-label6, #blue-point-label6,
